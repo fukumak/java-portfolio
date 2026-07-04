@@ -7,7 +7,14 @@
 <!-- 言語仕様、OOP、フレームワーク（Spring等）、ツール（Maven/Gradle）などを箇条書きで -->
 
 ## 作成したもの
-<!-- projects/ 配下のプロジェクトを紹介。名前・概要・使用技術・リンク（GitHub等） -->
+
+### Servlet & JSP ログイン／会員登録デモ
+- 概要: Servlet + JSP + HttpSessionによる会員登録・ログイン・セッション管理のWebアプリ
+- 使用技術: Java 11 / Servlet 4.0 / JSP + JSTL / Tomcat 9 / Docker
+- ソースコード: [projects/servlet-login-app](https://github.com/fukumak/java-portfolio/tree/master/projects/servlet-login-app)
+- 動作デモ: <!-- Renderへのデプロイ完了後、発行されたURLをここに記載 -->
+
+<!-- 他のプロジェクトがあれば追記 -->
 
 ## 資格・認定
 <!-- certifications/ の内容があれば記載 -->

@@ -3,6 +3,8 @@
 Servlet + JSP + `HttpSession` によるログイン・会員登録・セッション管理のサンプルアプリです。
 Java（Servlet/JSP）の学習内容を反映した実装で、Java標準の `javax.servlet` API（Tomcat 9 / Jakarta EE以前の名前空間）を使用しています。
 
+**動作デモ:** https://java-portfolio-4syj.onrender.com （無料プランのためスリープあり。初回アクセス時は起動に数十秒かかることがあります）
+
 ## 機能
 
 - 会員登録（`/signup`）— ユーザー名重複チェック、パスワード確認、SHA-256でのパスワードハッシュ化

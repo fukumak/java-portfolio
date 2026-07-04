@@ -12,7 +12,7 @@
 - 概要: Servlet + JSP + HttpSessionによる会員登録・ログイン・セッション管理のWebアプリ
 - 使用技術: Java 11 / Servlet 4.0 / JSP + JSTL / Tomcat 9 / Docker
 - ソースコード: [projects/servlet-login-app](https://github.com/fukumak/java-portfolio/tree/master/projects/servlet-login-app)
-- 動作デモ: <!-- Renderへのデプロイ完了後、発行されたURLをここに記載 -->
+- 動作デモ: [https://java-portfolio-4syj.onrender.com](https://java-portfolio-4syj.onrender.com)（無料プランのためアクセスがないとスリープし、初回アクセス時に起動まで数十秒かかる場合があります）
 
 <!-- 他のプロジェクトがあれば追記 -->
 
